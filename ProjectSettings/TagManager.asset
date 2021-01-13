@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CheckPoint
+  - FallDetector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackBackGround
+    uniqueID: 1477156671
+    locked: 0
+  - name: Ground
+    uniqueID: 3738268831
+    locked: 0
+  - name: Background
+    uniqueID: 792391663
+    locked: 0
+  - name: Middleground
+    uniqueID: 2604050985
+    locked: 0
+  - name: Forthground
+    uniqueID: 167375147
+    locked: 0
